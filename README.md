@@ -20,10 +20,10 @@ database_table="TwitterDB"
 
 
 # Run
-Run Main.ipynb to start scraping data on Jupter Notebook.
+Run app.ipynb to start scraping data on Jupter Notebook.
 
-Run Analysis.ipynb to perform data analysis for brand improvement after Main.ipynb starts running.
+Run Analysis.ipynb to perform data analysis for brand improvement after app.ipynb starts running.
 
-Run Trend_Analysis_Complex to track topic trends on Twitter after Main.ipynb starts running.
+Run Trend_Analysis_Complex to track topic trends on Twitter after app.ipynb starts running.
 
 Note: Since streaming process is always on, press STOP button to finsih.
